@@ -1,0 +1,19 @@
+let emilterrero-resume = {
+    "name": "Emil Terrero",
+    "github": "emilterrero",
+    "email": "emilterrero224@gmail.com",
+    "resume": "n/a",
+    "proficientTechnologies": [
+        "HTML",
+        "CSS",
+        "Jvascript",
+        "REACT",
+        "Node",
+        "Python"
+    ],
+    "otherSkills": [
+        "fluent Spanish"
+    ]
+}
+ 
+
